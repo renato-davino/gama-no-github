@@ -1,0 +1,2 @@
+Atuo com mainframe a aproximadamente 12 anos e não temos preocupação com versionamento, pois a própria plataforma faz tudo de forma automática.
+Apesar de ter ouvido falar bastante da ferramente, o curso de GIT tem expandido meus horizontes e me auxiliando em alguns termos que ouço no dia a dia. Além disso, acredito ser um curso extremamente importante pois versionamento de código é algo muito sensível e qualquer problema de merge pode acarretar em um grande problema em produção.
